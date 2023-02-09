@@ -24,12 +24,12 @@ header nav a {
 }
 
 header h1, a{
-    color:deepskyblue;
+    color:#00e0ff;
     transition: 0.2s ease-in-out;
 }
 
 
 
 header  h1:hover, a:hover {
-    color:white
+    color:#fff
 } 
